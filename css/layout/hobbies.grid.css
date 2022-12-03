@@ -1,0 +1,13 @@
+.hobbies {
+  display: flex;
+  flex-direction: row;
+  gap: 4vw;
+  color:black;
+}
+
+.hobbies--img {
+  --tamano: 10rem;
+  width: var(--tamano);
+  height: var(--tamano);
+  color: lightblue;
+}
